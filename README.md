@@ -6,10 +6,10 @@ The goal of this project is to be able to create an application, for convenience
 The end goal is to be able to produce an app that works similarly to Samsung Pay or Apple Pay, but with movie tickets.
 
 Current Members:
-\nAngel Burgos
-\nChristian Alapont
-\nMoises Garip
-\nHector Jimenez
-\nEdgar Rivera
-\nArmando León
+Angel Burgos,
+ Christian Alapont,
+ Moises Garip,
+ Hector Jimenez,
+ Edgar Rivera,
+ Armando León
 
